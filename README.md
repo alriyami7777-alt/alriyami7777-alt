@@ -50,11 +50,6 @@ Q. Alriyami, A. Adnane, and A. K. Smith. *2014 International Conference on Conne
 
 - **[Cross-dataset insider threat detection](https://github.com/alriyami7777-alt/crossdataset-insider-threat)**  
   Code, protocols, and results accompanying the IJACSA paper on zero-shot transfer across CERT, SPEDIA, and LANL.
-- **[Sequence–ensemble insider threat detection](https://github.com/alriyami7777-alt/teacher-anchored-insider-threat-detection)**  
-  Research companion for teacher-guided temporal learning, explanation analysis, and robustness evaluation. **Work in progress; manuscript under revision.**
-- **[Machine-learning literature review supplement](https://github.com/alriyami7777-alt/Insider-Threat-ML-SLR-Supplement)**  
-  Supporting materials for a systematic review of machine learning for insider threat detection.
-
 ### How I approach research
 
 **Respect chronology.** Keep future information out of earlier predictions.  
