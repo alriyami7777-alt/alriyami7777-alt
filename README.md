@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Qasim Alriyami — Cybersecurity and machine learning research" width="100%">
+  <img src="assets/banner-v2.png" alt="Qasim Alriyami — Cybersecurity and machine learning research" width="100%">
 </p>
 
 <p align="center">
@@ -10,6 +10,7 @@
 <p align="center">
   <a href="https://alriyami7777-alt.github.io/">Academic website</a> &nbsp; / &nbsp;
   <a href="https://orcid.org/0009-0007-8081-9997">ORCID</a> &nbsp; / &nbsp;
+  <a href="#academic-background">Education</a> &nbsp; / &nbsp;
   <a href="#publications">Publications</a> &nbsp; / &nbsp;
   <a href="#research-code">Research code</a>
 </p>
@@ -22,6 +23,14 @@ I'm **Qasim Mohamed Muhanna Alriyami**, a PhD researcher at **Universiti Teknolo
 
 My work connects **cybersecurity, temporal learning, and explainable AI**, with particular attention to rare behaviour, multi-source activity logs, data leakage, and performance beyond a single benchmark.
 
+### Academic background
+
+![Academic qualifications: Bachelor of Engineering, Master of Science, and Master of Operational Studies](assets/academic-background.svg)
+
+- **Bachelor of Engineering in Computer Systems Engineering** — The University of Queensland, Brisbane, Australia.
+- **MSc in Information Security** — University of Derby, Derby, United Kingdom.
+- **Master of Operational Studies (MOS)** — U.S. Army Command and General Staff College (CGSC).
+
 ### Research focus
 
 - **Insider threat detection** — learning from behavioural sequences and enterprise activity logs.
@@ -33,7 +42,7 @@ My work connects **cybersecurity, temporal learning, and explainable AI**, with 
 ### Publications
 
 **2026 · IJACSA**  
-**[Does It Generalize? A Cross-Dataset Study of Graph-Based Insider Threat Detection Beyond CERT](https://doi.org/10.14569/IJACSA.2026.0170991)**  
+**[Does It Generalize? A Cross-Dataset Study of Graph-Based Insider Threat Detection Beyond CERT](https://thesai.org/Publications/ViewPaper?Volume=17&Issue=9&Code=IJACSA&SerialNo=91)**  
 Qasim Mohamed Muhanna Alriyami and Mohd Murtadha Bin Mohamad. *International Journal of Advanced Computer Science and Applications*, **17**(9).  
 [Publisher](https://thesai.org/Publications/ViewPaper?Volume=17&Issue=9&Code=IJACSA&SerialNo=91) · [Research code](https://github.com/alriyami7777-alt/crossdataset-insider-threat)
 
@@ -50,6 +59,7 @@ Q. Alriyami, A. Adnane, and A. K. Smith. *2014 International Conference on Conne
 
 - **[Cross-dataset insider threat detection](https://github.com/alriyami7777-alt/crossdataset-insider-threat)**  
   Code, protocols, and results accompanying the IJACSA paper on zero-shot transfer across CERT, SPEDIA, and LANL.
+
 ### How I approach research
 
 **Respect chronology.** Keep future information out of earlier predictions.  
