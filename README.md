@@ -11,7 +11,7 @@
   <a href="https://alriyami7777-alt.github.io/">Academic website</a> &nbsp; / &nbsp;
   <a href="https://orcid.org/0009-0007-8081-9997">ORCID</a> &nbsp; / &nbsp;
   <a href="#academic-background">Education</a> &nbsp; / &nbsp;
-  <a href="#publications">Publications</a> &nbsp; / &nbsp;
+  <a href="https://alriyami7777-alt.github.io/papers.html">All papers</a> &nbsp; / &nbsp;
   <a href="#research-code">Research code</a>
 </p>
 
