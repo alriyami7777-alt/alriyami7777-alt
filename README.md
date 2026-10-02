@@ -27,9 +27,9 @@ My work connects **cybersecurity, temporal learning, and explainable AI**, with 
 
 ![Academic qualifications: Bachelor of Engineering, Master of Science, and Master of Operational Studies](assets/academic-background.svg)
 
-- **Bachelor of Engineering in Computer Systems Engineering** — The University of Queensland, Brisbane, Australia.
-- **MSc in Information Security** — University of Derby, Derby, United Kingdom.
-- **Master of Operational Studies (MOS)** — U.S. Army Command and General Staff College (CGSC).
+- **Bachelor of Engineering in Computer Systems Engineering** — [The University of Queensland](https://www.uq.edu.au/), Brisbane, Australia.
+- **MSc in Information Security** — [University of Derby](https://www.derby.ac.uk/), Derby, United Kingdom.
+- **Master of Operational Studies (MOS)** — [U.S. Army Command and General Staff College](https://www.army.edu/CGSC/) (CGSC).
 
 ### Research focus
 
@@ -59,6 +59,14 @@ Q. Alriyami, A. Adnane, and A. K. Smith. *2014 International Conference on Conne
 
 - **[Cross-dataset insider threat detection](https://github.com/alriyami7777-alt/crossdataset-insider-threat)**  
   Code, protocols, and results accompanying the IJACSA paper on zero-shot transfer across CERT, SPEDIA, and LANL.
+
+### Dataset guide
+
+- **[CERT](https://www.sei.cmu.edu/library/insider-threat-test-dataset/)** — Synthetic background activity and malicious-user scenarios from Carnegie Mellon University's Software Engineering Institute.
+- **[SPEDIA](https://zenodo.org/records/15525713)** — Controlled exercise activity, simulated behaviour and CERT-derived synthetic events from researchers at Universidad Politécnica de Madrid.
+- **[LANL](https://csr.lanl.gov/data/cyber1/)** — De-identified enterprise network events and red-team activity from Los Alamos National Laboratory.
+
+[Explore the dataset introductions and research context](https://alriyami7777-alt.github.io/#datasets).
 
 ### How I approach research
 
