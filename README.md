@@ -25,11 +25,10 @@ My work connects **cybersecurity, temporal learning, and explainable AI**, with 
 
 ### Academic background
 
-![Academic qualifications: Bachelor of Engineering, Master of Science, and Master of Operational Studies](assets/academic-background.svg)
+![Academic qualifications: Bachelor of Engineering and Master of Science](assets/academic-background.svg)
 
 - **Bachelor of Engineering in Computer Systems Engineering** — [The University of Queensland](https://www.uq.edu.au/), Brisbane, Australia.
 - **MSc in Information Security** — [University of Derby](https://www.derby.ac.uk/), Derby, United Kingdom.
-- **Master of Operational Studies (MOS)** — [U.S. Army Command and General Staff College](https://www.army.edu/CGSC/) (CGSC).
 
 ### Research focus
 
